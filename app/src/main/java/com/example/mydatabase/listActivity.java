@@ -15,6 +15,7 @@ public class listActivity extends AppCompatActivity {
     private RecyclerViewAdapter recyclerViewAdapter;
     private RecyclerView recyclerView;
     DatabaseHandler db;
+    private  List<String> myList;
 
 
     @Override
