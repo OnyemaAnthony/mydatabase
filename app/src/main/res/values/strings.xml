@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mydatabase</string>
+    <string name="name" />
+    <string name="app_nam">Enter your name</string>
+    <string name="school">Enter the name of your school</string>
+    <string name="department">What is your department</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_list">listActivity</string>
+    <string name="myname">name</string>
+    <string name="myne">name</string>
+</resources>
